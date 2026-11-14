@@ -54,9 +54,10 @@ At 18 m/s the tracking quality drops a lot:
 | LQR | Loses tracking at 288 m | 4.93 m | 24.1% |
 
 ### Pure Pursuit
+![Pure Pursuit](results/github_pure_pursuit.png)
 
 ### LQR
-
+![LQR](results/github_lqr.png)
 ## What this demonstrates
 
 Good tracking at the tuning speed does not mean the controller will 
